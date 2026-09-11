@@ -1,0 +1,13 @@
+# R session junk
+.Rhistory
+.RData
+.RDataTmp
+.Rproj.user
+
+# data and results are not tracked in this repository
+data/
+output/
+
+# OS / office junk
+.DS_Store
+~$*
