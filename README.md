@@ -1,7 +1,7 @@
 # EGF-MDD-MR
 
 ## Summary
-In this study, we performed two-sample Mendelian randomization (MR) analyses to examine the potential causal association between genetically predicted cortical expression of neurotrophic factor genes, including EGF, EGFR, FGF2, GDNF, and NGF, and major depressive disorder (MDD). Cis-eQTL instruments were obtained from the MetaBrain consortium, and GWAS summary statistics of MDD were obtained from the largest GWAS meta-analysis of depression to date (Als et al., 2023, Nat Med), with 23andMe data excluded due to access restrictions. <br>
+In this study, we performed two-sample Mendelian randomization (MR) analyses to examine the potential causal association between genetically predicted cortical expression of neurotrophic factor genes, including EGF, EGFR, FGF2, GDNF, and NGF, and major depressive disorder (MDD). Cis-eQTL instruments were obtained from the MetaBrain consortium, and GWAS summary statistics of MDD were obtained from the  GWAS meta-analysis of depression  (Als et al., 2023, Nat Med), with 23andMe data excluded due to access restrictions. <br>
 Refer `00_Process.sh` for the major processes.
 
 ## Prepare the cis-eQTL data
